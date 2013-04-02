@@ -1,0 +1,13 @@
+简单的远端python shell调用
+
+将文件夹放在同步网盘中，比如dropbox
+
+服务器段运行python server.py
+
+客户端运行python client.py
+
+就可以执行远端python命令
+
+像普通的python shell一样使用，执行是在远端执行
+
+这个东西是为了两个都在内网的机器无法互联而设想的简单解决方案
